@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings (English)
+  MemIT
+  
+  Created by Marco Cortellazzi on 05/01/26.
+*/
+
+// MARK: - Import Errors
+"import.error.fileAccessDenied" = "Cannot access the selected file";
+"import.error.emptyFile" = "The selected file is empty";
+"import.error.invalidFormat" = "Invalid format at line %d. Use format: front,back or front;back";
+"import.error.emptyFields" = "Empty fields at line %d";
