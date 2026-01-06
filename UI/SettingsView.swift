@@ -220,7 +220,7 @@ struct SettingsView: View {
                 Spacer()
             }
             
-            Link(destination: URL(string: "https://github.com/marcocortellazzi/MemIT")!) {
+            Link(destination: URL(string: "https://github.com/MCK1989/MemIT")!) {
                 HStack {
                     Image(systemName: "link")
                         .foregroundColor(.blue)
